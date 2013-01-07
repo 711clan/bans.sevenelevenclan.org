@@ -1,0 +1,2 @@
+bans.sevenelevenclan.org
+========================
